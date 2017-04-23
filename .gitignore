@@ -1,0 +1,56 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.tlog
+*.db
+*.opendb
+*.suo
+*.log
+
+# Build folders (areyoukiddingme.gif)
+Debug\
+Debug (Static)\
+Release\
+Release (Static)\
+x64\
+Client\Debug\
+Server\Debug\
+Console_Framework\x64\
+applib-dist\lib-x64\
+.vs\
+
+*.idb
+*.pdb
+*.user
+*.iobj
+*.ipdb
+*.ilk
+*.sbr
+*.bsc
+*.sbr
